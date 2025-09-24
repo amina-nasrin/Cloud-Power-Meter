@@ -44,7 +44,8 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 5. **Polynomial Regression Model** estimates real-time power consumption.  
 
 <p align="center">
-<img width="4422" height="2351" alt="ce2" src="https://github.com/user-attachments/assets/2aab3a64-a2a4-4532-bac6-3216461167d1" alt=": Overall Workflow of Cloud Power Meter (CPM)/>  
+<img width="4422" height="2351" alt="ce2" src="https://github.com/user-attachments/assets/8ed9f4a6-d748-4ca0-81cb-6e21e1dab0b7" />
+
 </p>
 
 ---
