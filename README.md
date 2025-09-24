@@ -44,12 +44,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 5. **Polynomial Regression Model** estimates real-time power consumption.  
 
 <p align="center">
-<img width="4422" height="2351" alt="ce2" src="https://github.com/user-attachments/assets/2aab3a64-a2a4-4532-bac6-3216461167d1" alt=": Overall Workflow of Cloud Power Meter (CPM) - (a) CPM being deployed on Cloud Virtual Machine (b) CPM collects host
-specifications for the Decision Tree (c) Decision Tree matches host specifications with dataset and outputs ‘CMP instance’ (d) CPM
-instance is the instance from the dataset that matches the closest to the host (e) CPM Instance’s specifications and real-time CPU
-utilization is collected for Power Model (f) CPU utilization is normalized based allocated number of cores and overall processor
-cores (g) Multi-variable Polynomial Regression Power Model estimates power consumption from (e) and (f); (h) Power Estimation
-is achieved"/>  
+<img width="4422" height="2351" alt="ce2" src="https://github.com/user-attachments/assets/2aab3a64-a2a4-4532-bac6-3216461167d1" alt=": Overall Workflow of Cloud Power Meter (CPM)/>  
 </p>
 
 ---
