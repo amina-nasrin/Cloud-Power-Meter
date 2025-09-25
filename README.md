@@ -34,7 +34,8 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
   - ML model of **polynomial regression** provides accurate predictions across diverse workloads with Decision Tree output and normalized CPU utlizations.
     
 - **Accurate ML-based Power Estimation**  
-  - Outperforms 14 existing power models.  
+  - Outperforms 14 existing power models.
+  - Outperforms TDP-based measurements by far.
   - Matches the accuracy of Intel RAPL without needing root/sudo access.  
   - Designed and implemented a novel **Decision Tree + Multi-variable Polynomial Regression model** for real-time CPU power estimation.  
 
