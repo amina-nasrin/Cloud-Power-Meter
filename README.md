@@ -18,6 +18,7 @@ In a separate terminal (or as per your usual workflow), launch the workload you 
    Open a terminal and run:  
    ```bash
    python CPM.py
+   ```
 4. Run Simultaneously
 5. Keep both processes running in parallel—your workload and CPM.
 6. Collect Power Reports
