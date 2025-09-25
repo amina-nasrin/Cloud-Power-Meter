@@ -12,12 +12,17 @@
    - `trained_model.pickle`  
    - `CPM.py`
    - `230.csv`
-
-2. **Start CPM**  
+5. Prepare to Deploy Your Workload
+In a separate terminal (or as per your usual workflow), launch the workload you want to monitor.
+3. **Start CPM**  
    Open a terminal and run:  
    ```bash
    python CPM.py
-
+4. Run Simultaneously
+5. Keep both processes running in parallel—your workload and CPM.
+6. Collect Power Reports
+CPM will continuously record real-time power consumption and save the results to a .csv file for analysis.
+   
 ## 📌 Overview
 Cloud Power Meter (CPM) is a **machine learning–based framework**. It provides **accurate, real-time power estimation** across **heterogeneous cloud environments** (AWS, Azure, GCP, and Chameleon Cloud)—**without requiring administrative privileges**.
 
