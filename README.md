@@ -10,7 +10,7 @@
    Place the following files on your leased VM:  
    - `DecisionTree_trained_model_new.pickle`  
    - `trained_model.pickle`  
-   - `PowerModel7_ext_Predict.py`  
+   - `CPM.py`  
 
 2. **Start CPM**  
    Open a terminal and run:  
