@@ -23,6 +23,7 @@
 4. Run CPM and workload Simultaneously
 5. Keep both processes running in parallel—your workload and CPM.
 6. Collect Power Reports
+   
 CPM will continuously record real-time power consumption and save the results to a .csv file for analysis.
    
 ## 📌 Overview
