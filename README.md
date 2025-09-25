@@ -41,9 +41,12 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
   - **polynomial regression** provides accurate predictions across diverse workloads with Decision Tree output and normalized CPU utilizations.
     
 - **Accurate ML-based Power Estimation**  
-  - Outperforms 14 existing power models.
-  - Outperforms TDP-based measurements by far.
-  - Matches the accuracy of Intel RAPL without needing root/sudo access.  
+  After extensive analysis and experimentation, we adopted a **third-degree multi-variable polynomial regression model** for the power prediction task. Polynomial regression was selected because it effectively captures the **non-linear relationships** among power-affecting parameters. Building on prior research in this field and supported by SPEC benchmark data, it is evident that the relationship between workload parameters and power consumption is inherently non-linear.  
+
+  - Outperforms **14 existing power models**.  
+  - Significantly more accurate than **TDP-based measurements**.  
+  - Achieves **RAPL-level accuracy** without requiring privileged (root/sudo) access.  
+
 
 - **Cross-Cloud Adaptability**
   - Validated CPM across multiple commercial and academic platforms with heterogeneous hardware configurations.  
