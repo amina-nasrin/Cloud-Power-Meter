@@ -13,6 +13,21 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 
 ---
 
+## 🔬 How It Works
+
+<p align="center">
+<img width="722" height="751" alt="ce2" src="https://github.com/user-attachments/assets/8ed9f4a6-d748-4ca0-81cb-6e21e1dab0b7" alt="CPM"/>
+
+</p>
+
+1. **Deploy CPM** on a cloud VM.  
+2. **Collect host specs** (CPU model, frequency, cores, memory, instance type, etc.).  
+3. **Decision Tree** locates the closest-matching “CPM Instance” from training data.  
+4. **CPU utilization is normalized** based on allocated vs. physical cores.  
+5. **Polynomial Regression Model** estimates real-time power consumption.
+   
+---
+
 ## 🚀 Key Contributions
 - **Novel ML Integration for Cloud Heterogeneity**  
   - Developed a **decision tree classifier** to map unseen VM specifications to the closest known instance (aka "CPM Instance") from the dataset, to ensure adaptability across the massive heterogeneity on the commercial cloud as well as research cloud such as **AWS, Azure, GCP, Chameleon Cloud**.  
@@ -34,21 +49,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 - **Sustainability Impact**  
   - Helps providers and enterprises reduce costs and carbon footprint.  
   - Demonstrated practical applications for reducing costs, conserving energy
-  - Provides actionable insights for **green cloud computing** and compliance with emerging **GHG emission disclosure laws**.  
-
----
-
-## 🔬 How It Works
-1. **Deploy CPM** on a cloud VM.  
-2. **Collect host specs** (CPU model, frequency, cores, memory, instance type, etc.).  
-3. **Decision Tree** locates the closest-matching “CPM Instance” from training data.  
-4. **CPU utilization is normalized** based on allocated vs. physical cores.  
-5. **Polynomial Regression Model** estimates real-time power consumption.  
-
-<p align="center">
-<img width="722" height="751" alt="ce2" src="https://github.com/user-attachments/assets/8ed9f4a6-d748-4ca0-81cb-6e21e1dab0b7" alt="CPM"/>
-
-</p>
+  - Provides actionable insights for **green cloud computing** and compliance with emerging **GHG emission disclosure laws**.
 
 ---
 
