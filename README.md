@@ -30,8 +30,8 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 
 ## 🚀 Key Contributions
 - **Novel ML Integration for Cloud Heterogeneity**  
-  - Developed a **decision tree classifier** to map unseen VM specifications to the closest known instance (aka "CPM Instance") from the dataset, to ensure adaptability across the massive heterogeneity on the commercial cloud as well as research cloud such as **AWS, Azure, GCP, Chameleon Cloud**.  
-  - Combined normalized CPU utilization with polynomial regression to provide accurate predictions across diverse workloads.
+  - Leveraged a **Decision Tree classifier** to map unseen VM specifications to the closest known instance (aka "CPM Instance") from the dataset, to ensure adaptability across the massive heterogeneity on the commercial cloud as well as research cloud such as **AWS, Azure, GCP, Chameleon Cloud**.  
+  - ML model of **polynomial regression** provides accurate predictions across diverse workloads with Decision Tree output and normalized CPU utlizations.
     
 - **Accurate ML-based Power Estimation**  
   - Outperforms 14 existing power models.  
