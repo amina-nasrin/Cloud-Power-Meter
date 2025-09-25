@@ -71,7 +71,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
   - Identified **366 idle VMs wasting ~15,000 kWh in a month**.  
   - Energy optimization through core downgrading achieved up to **59.12% savings**.  
  <p align="center">
-<img width="2908" height="989" alt="2downgraded_plot" src="https://github.com/user-attachments/assets/012021ff-cacc-47fd-a63f-22c5d8036b4e" />
+<img width="1908" height="589" alt="2downgraded_plot" src="https://github.com/user-attachments/assets/012021ff-cacc-47fd-a63f-22c5d8036b4e" />
 
 </p> 
 ---
