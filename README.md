@@ -16,7 +16,7 @@
    
    in a separate terminal (or as per your usual workflow).
 3. **Prepare CPM**  
-   Open a terminal and run:  
+   Open a terminal and paste:  
    ```bash
    python CPM.py
    ```
