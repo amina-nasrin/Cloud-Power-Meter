@@ -4,6 +4,19 @@
 
 [![IEEE Transactions on Sustainable Computing](https://img.shields.io/badge/IEEE-Transactions%20on%20Sustainable%20Computing-blue)](https://doi.org/10.1109/TSUSC.2025.3607207)
 
+## ⚙️ How to Operate
+
+1. **Deploy Required Files**  
+   Place the following files on your leased VM:  
+   - `DecisionTree_trained_model_new.pickle`  
+   - `trained_model.pickle`  
+   - `PowerModel7_ext_Predict.py`  
+
+2. **Start CPM**  
+   Open a terminal and run:  
+   ```bash
+   python PowerModel7_ext_Predict.py
+
 ## 📌 Overview
 Cloud Power Meter (CPM) is a **machine learning–based framework**. It provides **accurate, real-time power estimation** across **heterogeneous cloud environments** (AWS, Azure, GCP, and Chameleon Cloud)—**without requiring administrative privileges**.
 
