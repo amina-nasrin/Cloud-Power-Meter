@@ -57,4 +57,6 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 ---
 
 ## 🛠️ Repository Structure
+This work was executed at the Green Computing Lab at Texas State University under the supervision of Dr. Ziliang Zong [ziliang@txstate.edu](mailto:ziliang@txstate.edu).
 [aminanasrin@txstate.edu](mailto:aminanasrin@txstate.edu)
+[dayuan@txstate.edu](mailto:dayuan@txstate.edu)
