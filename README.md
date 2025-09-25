@@ -12,8 +12,9 @@
    - `trained_model.pickle`  
    - `CPM.py`
    - `230.csv`
-5. Prepare to Deploy Your Workload
-In a separate terminal (or as per your usual workflow).
+2. Prepare to Deploy Your Workload
+   
+   in a separate terminal (or as per your usual workflow).
 3. **Prepare CPM**  
    Open a terminal and run:  
    ```bash
