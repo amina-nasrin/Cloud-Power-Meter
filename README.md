@@ -10,12 +10,13 @@
    Place the following files on your leased VM:  
    - `DecisionTree_trained_model_new.pickle`  
    - `trained_model.pickle`  
-   - `CPM.py`  
+   - `CPM.py`
+   - `230.csv`
 
 2. **Start CPM**  
    Open a terminal and run:  
    ```bash
-   python PowerModel7_ext_Predict.py
+   python CPM.py
 
 ## 📌 Overview
 Cloud Power Meter (CPM) is a **machine learning–based framework**. It provides **accurate, real-time power estimation** across **heterogeneous cloud environments** (AWS, Azure, GCP, and Chameleon Cloud)—**without requiring administrative privileges**.
