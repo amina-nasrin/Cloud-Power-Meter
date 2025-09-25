@@ -17,9 +17,16 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 - **Accurate ML-based Power Estimation**  
   - Outperforms 14 existing power models.  
   - Matches the accuracy of Intel RAPL without needing root/sudo access.  
+  - Designed and implemented a hybrid **Decision Tree + Multi-variable Polynomial Regression model** for real-time CPU power estimation.  
+  - Outperforms 14 existing models and closely matches Intel RAPL accuracy—without requiring root/sudo access.  
 
-- **Cross-Cloud Adaptability**  
-  - Works seamlessly across AWS, Microsoft Azure, Google Cloud, and academic testbeds.  
+- **Novel ML Integration for Cloud Heterogeneity**  
+  - Developed a **decision tree classifier** to map unseen VM specifications to the closest known instance ("CPM Instance"), ensuring adaptability across AWS, Azure, GCP, and Chameleon Cloud.  
+  - Combined normalized CPU utilization with polynomial regression to provide accurate predictions across diverse workloads.  
+
+- **Cross-Cloud Adaptability**
+  - Validated CPM across multiple commercial and academic platforms with heterogeneous hardware configurations.  
+  - Works across AWS, Microsoft Azure, Google Cloud, and academic testbeds.  
 
 - **Massive Real-World Validation**  
   - Analyzed **~2.6 million VMs from Microsoft Azure**.  
@@ -27,6 +34,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 
 - **Sustainability Impact**  
   - Helps providers and enterprises reduce costs and carbon footprint.  
+  - Demonstrated practical applications for reducing costs, conserving energy
   - Provides actionable insights for **green cloud computing** and compliance with emerging **GHG emission disclosure laws**.  
 
 ---
