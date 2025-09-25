@@ -61,7 +61,11 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 ## 📊 Case Studies & Results
 - **SPEC Benchmarks:** Demonstrated CPM’s superior accuracy across 11 workloads.  
 - **Chameleon Cloud:** Validated adaptability on unseen hardware.  
-- **Commercial Clouds (AWS, Azure):** Proved CPM’s effectiveness under strict privilege limitations.  
+- **Commercial Clouds (AWS, Azure):** Proved CPM’s effectiveness under strict privilege limitations.
+ <p align="center">
+<img width="2625" height="662" alt="1plot_cham" src="https://github.com/user-attachments/assets/75d662d3-de52-4c91-8279-009b8f932cec" />
+
+</p> 
 - **Microsoft Azure Dataset:**  
   - Nearly **40% of VMs never exceeded 5% CPU utilization**.  
   - Identified **366 idle VMs wasting ~15,000 kWh in a month**.  
