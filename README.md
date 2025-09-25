@@ -102,6 +102,7 @@ CPM will continuously record real-time power consumption and save the results to
 <img width="2625" height="662" alt="1plot_cham" src="https://github.com/user-attachments/assets/75d662d3-de52-4c91-8279-009b8f932cec" />
 
 </p> 
+
 - **Microsoft Azure Dataset:**  
   - Nearly **40% of VMs never exceeded 5% CPU utilization**.  
   - Identified **366 idle VMs wasting ~15,000 kWh in a month**.  
