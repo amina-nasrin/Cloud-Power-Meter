@@ -42,6 +42,8 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
     
 - **Accurate ML-based Power Estimation**  
   After extensive analysis and experimentation, we adopted a **third-degree multi-variable polynomial regression model** for the power prediction task. Polynomial regression was selected because it effectively captures the **non-linear relationships** among power-affecting parameters. Building on prior research in this field and supported by SPEC benchmark data, it is evident that the relationship between workload parameters and power consumption is inherently non-linear.
+
+  
    $$ 
   f(x) = \sum_{m=1}^{M} c_m \cdot I(x \in R_m) 
   $$
