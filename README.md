@@ -97,7 +97,7 @@ CPM will continuously record real-time power consumption and save the results to
 ## 📊 Case Studies & Results
 - **SPEC Benchmarks:** Demonstrated CPM’s superior accuracy across 11 workloads.  
 - **Chameleon Cloud:** Validated adaptability on unseen hardware.  
-- **Commercial Clouds (AWS, Azure):** Proved CPM’s effectiveness under strict privilege limitations.
+- **Commercial Clouds (AWS, Azure):** Proved CPM’s effectiveness under strict privilege limitations. The **AWS power report** is included into this repository (AWS_power_report.csv).
  <p align="center">
 <img width="2625" height="662" alt="1plot_cham" src="https://github.com/user-attachments/assets/75d662d3-de52-4c91-8279-009b8f932cec" />
 
