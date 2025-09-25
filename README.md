@@ -39,7 +39,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 ## 🔬 How It Works
 1. **Deploy CPM** on a cloud VM.  
 2. **Collect host specs** (CPU model, frequency, cores, memory, instance type, etc.).  
-3. **Decision Tree** locates the “closest-matching CPM Instance” from training data.  
+3. **Decision Tree** locates the closest-matching “CPM Instance” from training data.  
 4. **CPU utilization is normalized** based on allocated vs. physical cores.  
 5. **Polynomial Regression Model** estimates real-time power consumption.  
 
