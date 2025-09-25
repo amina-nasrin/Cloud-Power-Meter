@@ -3,6 +3,8 @@
 **Bridging the Gap in Power Measurement for Heterogeneous Cloud**
 
 [![IEEE Transactions on Sustainable Computing](https://img.shields.io/badge/IEEE-Transactions%20on%20Sustainable%20Computing-blue)](https://doi.org/10.1109/TSUSC.2025.3607207)
+## 📌 Overview
+Cloud Power Meter (CPM) is a **machine learning–based framework**. It provides **accurate, real-time power estimation** across **heterogeneous cloud environments** (AWS, Azure, GCP, and Chameleon Cloud)—**without requiring administrative privileges**.
 
 ## ⚙️ How to Operate
 
@@ -25,9 +27,6 @@
 6. Collect Power Reports
    
 CPM will continuously record real-time power consumption and save the results to a .csv file for analysis.
-   
-## 📌 Overview
-Cloud Power Meter (CPM) is a **machine learning–based framework**. It provides **accurate, real-time power estimation** across **heterogeneous cloud environments** (AWS, Azure, GCP, and Chameleon Cloud)—**without requiring administrative privileges**.
 
 This work has been **accepted in IEEE Transactions on Sustainable Computing (2025)** and addresses one of the most pressing challenges in modern computing: **energy inefficiency in cloud infrastructures**.  
 
