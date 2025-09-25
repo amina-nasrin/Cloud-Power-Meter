@@ -49,8 +49,6 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 </p>
 
 ---
-<img width="697" height="406" alt="image" src="https://github.com/user-attachments/assets/d4a1a92d-72d9-49c7-b967-08a384fa8842" />
-<img width="1310" height="671" alt="all" src="https://github.com/user-attachments/assets/2dd336e7-a97e-46e0-947a-779bf0ee5dae" />
 
 ## 📊 Case Studies & Results
 - **SPEC Benchmarks:** Demonstrated CPM’s superior accuracy across 11 workloads.  
