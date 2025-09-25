@@ -17,8 +17,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 - **Accurate ML-based Power Estimation**  
   - Outperforms 14 existing power models.  
   - Matches the accuracy of Intel RAPL without needing root/sudo access.  
-  - Designed and implemented a hybrid **Decision Tree + Multi-variable Polynomial Regression model** for real-time CPU power estimation.  
-  - Outperforms 14 existing models and closely matches Intel RAPL accuracy—without requiring root/sudo access.  
+  - Designed and implemented a novel **Decision Tree + Multi-variable Polynomial Regression model** for real-time CPU power estimation.  
 
 - **Novel ML Integration for Cloud Heterogeneity**  
   - Developed a **decision tree classifier** to map unseen VM specifications to the closest known instance ("CPM Instance"), ensuring adaptability across AWS, Azure, GCP, and Chameleon Cloud.  
