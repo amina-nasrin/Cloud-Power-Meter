@@ -7,7 +7,7 @@
 ## 📌 Overview
 Cloud Power Meter (CPM) is a **machine learning–based framework**. It provides **accurate, real-time power estimation** across **heterogeneous cloud environments** (AWS, Azure, GCP, and Chameleon Cloud)—**without requiring administrative privileges**.
 
-This project was recently **accepted in IEEE Transactions on Sustainable Computing (2025)** and addresses one of the most pressing challenges in modern computing: **energy inefficiency in cloud infrastructures**.  
+This work has been **accepted in IEEE Transactions on Sustainable Computing (2025)** and addresses one of the most pressing challenges in modern computing: **energy inefficiency in cloud infrastructures**.  
 
 By combining a **decision tree** for cross-platform adaptability with a **multi-variable polynomial regression model**, CPM matches the precision of Intel’s RAPL power model while being deployable on commercial cloud VMs.
 
