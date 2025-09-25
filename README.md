@@ -44,7 +44,7 @@ By combining a **decision tree** for cross-platform adaptability with a **multi-
 5. **Polynomial Regression Model** estimates real-time power consumption.  
 
 <p align="center">
-<img width="2422" height="5351" alt="ce2" src="https://github.com/user-attachments/assets/8ed9f4a6-d748-4ca0-81cb-6e21e1dab0b7" alt="CPM"/>
+<img width="1422" height="1351" alt="ce2" src="https://github.com/user-attachments/assets/8ed9f4a6-d748-4ca0-81cb-6e21e1dab0b7" alt="CPM"/>
 
 </p>
 
